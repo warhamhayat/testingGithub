@@ -1,2 +1,1 @@
-// file ini hanya untuk percobaan belajar github chapter 1
-// this isi ini dari newRepo
+// file ine dari newBranch yah guisss chapter 1
