@@ -1,1 +1,1 @@
-// file ine dari newBranch yah guisss chapter 1
+// file ine dari newBranch yah guisss chapter 1 dari yang bari saja ku ubah
